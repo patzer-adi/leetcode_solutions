@@ -2,6 +2,7 @@
 #include<iostream>
 #include<map>
 using namespace std;
+// O(n log n)
 
 class Solution {
 public:

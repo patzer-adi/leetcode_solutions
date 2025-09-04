@@ -1,6 +1,6 @@
 #include <vector>
 #include<iostream>
-
+// O(n^2)
 using namespace std;
 
 class Solution {
