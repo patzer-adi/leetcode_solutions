@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
+// n
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
