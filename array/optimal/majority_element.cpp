@@ -2,6 +2,7 @@
 #include <vector>
 using namespace std;
 // o(1) space comp...
+// Booyer Moore Solution
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
