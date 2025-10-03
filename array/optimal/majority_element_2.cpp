@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
-
+// simple sort and middle element
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
